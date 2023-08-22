@@ -1,6 +1,6 @@
 # Deploy TF-Lite model to AWS cloud: ECR, Lambda and API Gateway
 
-This is classifier for dinosaur and dragon developed with AWS services.
+This is a classifier for dinosaur and dragon developed with AWS services.
 
 ## Pretrained Model `dino_dragon.tflite`
 ```
